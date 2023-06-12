@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-DemoApp/Pods-DemoApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SnowplowTracker/SnowplowTracker.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/LMGData/LMGData.framework/LMGData
+${PODS_XCFRAMEWORKS_BUILD_DIR}/LMGUI/LMGUI.framework/LMGUI

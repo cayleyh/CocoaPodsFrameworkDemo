@@ -1,0 +1,6 @@
+framework module LMGUI {
+  umbrella header "LMGUI.h"
+
+  export *
+  module * { export * }
+}

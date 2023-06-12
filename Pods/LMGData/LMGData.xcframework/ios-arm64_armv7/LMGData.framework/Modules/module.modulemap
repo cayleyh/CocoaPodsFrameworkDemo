@@ -1,0 +1,6 @@
+framework module LMGData {
+  umbrella header "LMGData.h"
+
+  export *
+  module * { export * }
+}

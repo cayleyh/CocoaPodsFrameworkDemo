@@ -1,0 +1,36 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - LMGData (2.0.0):
+    - SnowplowTracker (~> 2.0)
+  - LMGUI (2.0.0):
+    - LMGData (= 2.0.0)
+    - SDWebImage (~> 5.11)
+  - SDWebImage (5.16.0):
+    - SDWebImage/Core (= 5.16.0)
+  - SDWebImage/Core (5.16.0)
+  - SnowplowTracker (2.2.2):
+    - FMDB (~> 2.7)
+
+DEPENDENCIES:
+  - LMGUI (= 2.0.0)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - LMGData
+    - LMGUI
+    - SDWebImage
+    - SnowplowTracker
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  LMGData: c71bf1558fcba48d80466da3374db5dae7338ddb
+  LMGUI: f429a315e5612213deeb9b0f00e06f530b89cb04
+  SDWebImage: 2aea163b50bfcb569a2726b6a754c54a4506fcf6
+  SnowplowTracker: 2eee2d6606a60db98f7c4e1515499bb216b6c8ad
+
+PODFILE CHECKSUM: 71e223657fbd05906a9ce17e530ea19a407a352d
+
+COCOAPODS: 1.12.1
